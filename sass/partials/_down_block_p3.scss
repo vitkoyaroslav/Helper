@@ -1,0 +1,126 @@
+.down_block_p3{
+	display: block;
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+	margin: 224px 0 0 124px;
+	.welcome{
+	 display: block;
+	 margin: 22px 0 0 50px;
+	 font-family: Helvetica;
+	 font-size: 16px;
+	 line-height: 20px;
+	 color: #41537D;
+	 cursor: pointer;
+	 margin-bottom: 23px;
+ 	}
+	h2{
+		margin-left: 50px;
+		width: 586px;
+		font-family: Helvetica;
+		font-size: 36px;
+		line-height: 44px;
+		color: #303A5F;
+	}
+	h3{
+		margin: 10px 0 0 50px;
+		font-family: Helvetica;
+		font-size: 23px;
+		line-height: 31px;
+		color: #373E58;
+	}
+	.comment{
+		display: block;
+		width: 300px;
+		margin: 0 0 40px 50px;
+		.circle_left{
+			display: inline-block;
+			position: absolute;
+			overflow: hidden;
+			width: 66px;
+			height: 66px;
+			border-radius: 50%;
+			text-align: center;
+			vertical-align: middle;
+			background:  #ececec;
+			margin-top: 14px;
+			img{
+				margin-top: 10px;
+				text-align: center;
+				vertical-align: middle;
+			}
+		 }
+		.text_right{
+				display: inline-block;
+				margin-left: 88px;
+				margin-top: 24px;
+				width: 60%;
+				height: 60px;
+				position: relative;
+				overflow: hidden;
+				 .name{
+					display: block;
+					position: relative;
+					overflow: hidden;
+					float: left;
+					font-family: Helvetica;
+					font-size: 16px;
+					color: #4C5B7C;
+					cursor: pointer;
+				 }
+				 .date{
+					 display: block;
+					 position: relative;
+					 overflow: hidden;
+					 margin-top: 10px;
+					 float: left;
+					 font-family: Helvetica;
+						font-size: 16px;
+						line-height: 19px;
+						color: #8390AE;
+						cursor: pointer;
+				}
+			 }
+	}
+	.up_img{
+		font-family: Helvetica;
+		font-size: 20px;
+		line-height: 33px;
+		color: #373E58;
+		width: 800px;
+		margin-left: 50px;
+	}
+	.text{
+		margin-left: 50px;
+		span{
+			font-family: Helvetica;
+			font-size: 20px;
+			line-height: 33px;
+			color: #373E58;
+			width: 800px;
+
+		}
+	}
+	.faces{
+		margin: 58px 0 66px 0;
+		width: 1024px;
+		height: 600px;
+	}
+	p{
+		margin: 0 0 0 50px;
+		font-family: Helvetica;
+		font-size: 20px;
+		line-height: 31px;
+		width: 808px;
+		color: #373E58;
+	}
+	.thanks{
+		font-family: Helvetica;
+		font-size: 20px;
+		line-height: 33px;
+		color: #373E58;
+		width: 800px;
+		margin-left: 50px;
+		text-indent: none;
+	}
+}

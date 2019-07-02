@@ -1,0 +1,41 @@
+.up_block{
+	display: block;
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+	height: 640px;
+	background-color: $background-grey;
+	.helper{
+		display: inline-block;
+		overflow: hidden;
+		position: relative;
+		margin: 290px auto auto 104px;
+		width: 342px;
+		height: 110px;
+		h2{
+			font-family: Helvetica;
+			font-size: 42px;
+			line-height: 51px;
+			color: #3D5174;
+		}
+		hr{
+			margin-top: 18px;
+			border: 5px solid #F16C4B;
+		}
+		h3{
+			margin-top: 10px;
+			font-family: Helvetica;
+			font-size: 20px;
+			line-height: 24px;
+			color: #54698F;
+		}
+	}
+	.walk{
+		display: inline-block;
+		overflow: visible;
+		float: right;
+		margin-top: 13px;
+		margin-right: -284px;
+		z-index: 1;
+	}
+}

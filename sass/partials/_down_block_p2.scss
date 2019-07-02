@@ -1,0 +1,47 @@
+.down_block_p2{
+	display: block;
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+	margin: 46px 0 0 166px;
+	.block_p2_welcome{
+		margin: 104px 0 0 0;
+		img{
+			display: block;
+			width: 1024px;
+			height: 600px;
+			}
+	 	.welcome{
+			display: block;
+			margin: 22px 0 0 0;
+			font-family: Helvetica;
+			font-size: 16px;
+			line-height: 20px;
+			color: #41537D;
+			cursor: pointer;
+		}
+
+		h3{
+			margin: 24px 0 0 0;
+			font-family: Helvetica;
+			font-size: 36px;
+			line-height: 44px;
+			color: #303A5F;
+		}
+		p{
+			margin: 14px 0 14px 0;
+			width: 1006px;
+			font-family: Helvetica;
+			font-size: 20px;
+			line-height: 31px;
+			color: #373E58;
+		}
+		.date{
+			margin: 0;
+			font-family: Helvetica Neue;
+			font-size: 16px;
+			line-height: 19px;
+			color: #8390AE;
+		}
+	}
+}
